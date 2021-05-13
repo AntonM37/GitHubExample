@@ -1,9 +1,10 @@
 ﻿body
 {
-    background-color:green
+    background-color:red;
 }
 li {
 
-font-size:30px;
-color:orange;
+    font-size:80px;
+    border:solid;
+    border-color:blue;
 }
