@@ -5,4 +5,6 @@
 li {
 
     font-size:80px;
+    border:solid;
+    border-color:blue;
 }
